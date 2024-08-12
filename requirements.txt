@@ -1,0 +1,3 @@
+scikit-fuzzy
+streamlit
+plotly
